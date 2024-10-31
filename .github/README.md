@@ -2,9 +2,9 @@
 [ yoo-fawr-ee-ops ]  
 
 *noun*  
-- A concept representing a legitimate pathway to accessing certain Call of Duty games without cost, embodying the principles of freedom, communal sharing, and digital liberation. It suggests that joy and exhilaration in gaming should be accessible to all, transcending economic barriers.
+- A concept representing a legitimate pathway to accessing certain Call of Duty® titles without cost, embodying the principles of freedom, communal sharing, and digital liberation. It suggests that joy and exhilaration in gaming should be accessible to all, transcending economic barriers.
 
-The following Call of Duty titles are accessible through euphoriops:
+The following Call of Duty® titles are accessible through euphoriops:
 - Call of Duty®: Black Ops 4
 - Call of Duty®: Black Ops Cold War
 - Call of Duty®: Vanguard
