@@ -10,3 +10,5 @@ The following Call of Duty® titles are accessible through euphoriops:
 - Call of Duty®: Vanguard
 
 *Disclaimer: This content is intended for informational and educational purposes only. The term "euphoriops" and the associated descriptions are conceptual in nature and do not promote or endorse any illegal activities or violations of copyright. All trademarks and copyrights are the property of their respective owners.*
+
+<sub>(this is a battle.net installer wrapper, more or less.)</sub>
